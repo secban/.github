@@ -1,6 +1,6 @@
 # SecBan
 
-SecBan is an intrusion-detection and prevention framework that enforces IP-level bans at the firewall (`nftables`). Inspired by fail2ban, SecBan uses a modular architecture separating detection, state management, enforcement, and alert dispatching across dedicated daemons.
+SecBan is an open source intrusion-detection and prevention framework for Linux that enforces IP-level bans at the firewall (`nftables`). Inspired by fail2ban, SecBan uses a modular architecture separating detection, state management, enforcement, and alert dispatching across dedicated daemons.
 
 ## Architecture
 
